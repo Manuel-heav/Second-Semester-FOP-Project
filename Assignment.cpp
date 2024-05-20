@@ -10,6 +10,7 @@ string password = "ilikesql0989";
 
 string connStr = "sqlcmd -S " + server + " -d " + database + " -U " + username + " -P " + password;
 
+// This is a new update
 class shopping
 {
 private:
